@@ -18,7 +18,7 @@ int main()
     do
     {
         system("cls");
-        printf("ESCRIBIR AQUI EL TITULO DEL PROGRAMA\n");
+        printf("Ejercicio 1\n");
         printf("==============\n\n");
 
 
